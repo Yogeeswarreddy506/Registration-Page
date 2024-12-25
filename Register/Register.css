@@ -1,0 +1,14 @@
+body{
+    background-image: url(OIP.jpeg);
+    font-family:  sans-serif;
+    font-weight: 100;
+    font-size: medium;
+    width: 100%;
+    
+    
+}
+input[type="submit"]:hover,input[type="Reset"]:hover{
+    border: 3px solid rgb(0, 0, 0);
+    background-color: rgb(19, 212, 246);
+    font-size:medium;
+}
